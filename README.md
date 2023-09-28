@@ -39,5 +39,5 @@ Finally, the last thing I would like to add is that the reason they look so tarn
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://github.com/arnab078/solar_panel_repo/assets/89680488/6b850bad-c193-4c5a-9c46-106c27d93bb4)
 
